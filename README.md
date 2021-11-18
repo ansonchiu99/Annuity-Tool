@@ -1,6 +1,7 @@
 # Annuity Illustration Tool
 
 This is a tool made for insurance agents that helps them illustrate annuity plans that can be sold to clients.
+
 ![Alt Text](https://i.imgur.com/FRRSIUP.gif)
 
 The following assumptions are made:
