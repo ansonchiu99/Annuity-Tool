@@ -1,16 +1,17 @@
 # Annuity Illustration Tool
 
+## About
 This is a tool made for insurance agents that helps them illustrate annuity plans for prospective clients.
 
 ![Alt Text](https://i.imgur.com/FRRSIUP.gif)
 
 
-The following assumptions are made:
+## Assumptions
 1. The insurance company only offers annuities to individuals between 40 and 110 years old.
 2. No payments will be made to annuitants over 110 years old.
 
 
-The company offers seven types of plans:
+## Types of Plans
 1. Annuitant decides which age the payments start and end at; $X per year.
 2. Annuitant decides which age the payments start and end at. $X is paid every second year, with the first payment occuring in the first year.
 3. Annuitant decides which age the payments start and end at. The first half of the payments are $X each, whereas the second half of the payments are $Y each.
@@ -20,9 +21,10 @@ The company offers seven types of plans:
 7. Payments start at age 60 and go to age 100. Each year, the annuitant gets $X per year they’ve been alive. For example, at age 64 the annuitant would receive $64X.
 
 
+## How to Edit Plans
 All dollar amounts can be changed according to company policy. This can be done in the "Edit Plans" Worksheet, as shown below.
 
 ![Alt Text](https://i.imgur.com/BvnVRv8.gif)
 
-
+## Download
 The newest version of the tool can be found here: 
