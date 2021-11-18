@@ -28,7 +28,7 @@ All dollar amounts can be changed according to company policy. This can be done 
 ![Alt Text](https://i.imgur.com/BvnVRv8.gif)
 
 ## Additional Notes
-- Both "Illustration Tool" and "Edit Plans" are protected and locked by default (except for some select cells). This is to ensure that the end-user does not accidentally change the functionality of the program. Feel free to unprotect either worksheet if you desire. There is no password.
+- Both "Illustration Tool" and "Edit Plans" are protected and locked by default (except for some select cells). This is to ensure that the end-user does not accidentally change the functionality of the program. Feel free to unprotect either worksheet if you so desire. No password is required.
 - The "Payment Calculator" worksheet is unhidden to showcase the inner workings of the program. Realistically, for an end-user, it should be hidden. 
 
 ## Download
