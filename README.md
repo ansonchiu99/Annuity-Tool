@@ -23,7 +23,7 @@ There are seven types of plans offered by the insurance company:
 
 
 ## Editing Plans
-All dollar amounts can be changed according to company policy. This can be done in the "Edit Plans" Worksheet, as shown below.
+All dollar amounts can be changed according to company policy. This can be done in the "Edit Plans" worksheet, as shown below.
 
 ![Alt Text](https://i.imgur.com/BvnVRv8.gif)
 
