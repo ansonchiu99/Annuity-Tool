@@ -32,4 +32,4 @@ All dollar amounts can be changed according to company policy. This can be done 
 - The "Payment Calculator" worksheet is unhidden to showcase the inner workings of the program. Realistically, for an end-user, it should be hidden. 
 
 ## Download
-[Click here](https://github.com/ansonchiu99/Annuity-Tool/raw/main/Annuity.Tool.xlsm) o download the latest version.
+[Click here](https://github.com/ansonchiu99/Annuity-Tool/raw/main/Annuity.Tool.xlsm) to download the latest version.
