@@ -12,7 +12,7 @@ This is a tool made for insurance agents that helps them illustrate annuity plan
 
 
 ## Types of Plans
-There are 7 types of plans offered by the company:
+There are seven types of plans offered by the insurance company:
 1. Annuitant decides which age the payments start and end at; $X per year.
 2. Annuitant decides which age the payments start and end at. $X is paid every second year, with the first payment occuring in the first year.
 3. Annuitant decides which age the payments start and end at. The first half of the payments are $X each, whereas the second half of the payments are $Y each.
