@@ -35,5 +35,5 @@ All dollar amounts can be changed according to company policy. This can be done 
 ![Alt Text](https://i.imgur.com/EIwiOuJ.gif)
 
 ## Download
-[Click here](https://github.com/ansonchiu99/Annuity-Tool/raw/main/Annuity_Tool.xlsm) to download the latest version (v1.1).
- <font size="1"> [What's new for 1.1](https://github.com/ansonchiu99/Annuity-Tool/releases/tag/v1.1) </font>
+[Click here](https://github.com/ansonchiu99/Annuity-Tool/raw/main/Annuity_Tool.xlsm) to download the latest version (v1.1). \
+ <font size="0.5"> [What's new for 1.1](https://github.com/ansonchiu99/Annuity-Tool/releases/tag/v1.1) </font>
