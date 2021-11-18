@@ -4,9 +4,11 @@ This is a tool made for insurance agents that helps them illustrate annuity plan
 
 ![Alt Text](https://i.imgur.com/FRRSIUP.gif)
 
+
 The following assumptions are made:
 1. The insurance company only offers annuities to individuals between 40 and 110 years old.
 2. No payments will be made to annuitants over 110 years old.
+
 
 The company offers seven types of plans:
 1. Annuitant decides which age the payments start and end at; $X per year.
@@ -17,8 +19,10 @@ The company offers seven types of plans:
 6. Payments start at age 65 and go to age 94; initial payment is $X and payments increase by $Y each year.
 7. Payments start at age 60 and go to age 100. Each year, the annuitant gets $X per year they’ve been alive. For example, at age 64 the annuitant would receive $64X.
 
+
 All dollar amounts can be changed according to company policy. This can be done in the "Edit Plans" Worksheet, as shown below.
 
 ![Alt Text](https://i.imgur.com/BvnVRv8.gif)
+
 
 The newest version of the tool can be found here: 
