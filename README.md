@@ -29,7 +29,10 @@ All dollar amounts can be changed according to company policy. This can be done 
 
 ## Additional Notes
 - Both "Illustration Tool" and "Edit Plans" are protected and locked by default (except for some select cells). This is to ensure that the end-user does not accidentally change the functionality of the program. Feel free to unprotect either worksheet if you so desire. No password is required.
-- The "Payment Calculator" worksheet is unhidden to showcase the inner workings of the program. Realistically, for an end-user, it should be hidden. 
+- The "Payment Calculator" worksheet is unhidden to showcase the inner workings of the program. Realistically, for an end-user, it should be hidden.
+- Please be sure to enable Macros.
+
+![Alt Text](https://i.imgur.com/EIwiOuJ.gif)
 
 ## Download
 [Click here](https://github.com/ansonchiu99/Annuity-Tool/raw/main/Annuity.Tool.xlsm) to download the latest version (v1.0).
