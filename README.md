@@ -22,7 +22,7 @@ There are seven types of plans offered by the insurance company:
 7. Payments start at age 60 and go to age 100. Each year, the annuitant gets $X per year they’ve been alive. For example, at age 64 the annuitant would receive $64X.
 
 
-## How to Edit Plans
+## Editing Plans
 All dollar amounts can be changed according to company policy. This can be done in the "Edit Plans" Worksheet, as shown below.
 
 ![Alt Text](https://i.imgur.com/BvnVRv8.gif)
